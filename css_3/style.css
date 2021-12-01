@@ -1,0 +1,20 @@
+h3:first-child
+    {
+        color: pink
+    }
+p#greycol
+    {
+        color: grey
+    }
+.text-box>div>p
+    {
+        color: red
+    }
+p:nth-last-child(2)
+    {
+        color: green
+    }
+p.yellow
+    {
+        color : yellow
+    }
